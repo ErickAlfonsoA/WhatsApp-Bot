@@ -1,0 +1,1174 @@
+{
+    "Analisis": [
+      [
+        "Biometria hematica (BH)",
+        160,
+        63.8,
+        57.42,
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Formula blanca",
+        130,
+        35.7,
+        42.11,
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Formula roja",
+        130,
+        35.7,
+        42.11,
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Plaquetas",
+        130,
+        37.11,
+        38.28,
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Recuento reticulocitos",
+        105,
+        37.11,
+        40.83,
+        0,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "VSG",
+        90,
+        35.68,
+        33.18,
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Tiempo protombina (TP)",
+        105,
+        64.23,
+        70.18,
+        1,
+        "ayuno de 4 hrs.",
+        "EMD"
+      ],
+      [
+        "TPT",
+        105,
+        64.23,
+        70.18,
+        1,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Bilirrubinas",
+        150,
+        54.24,
+        63.8,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Proteinas totales",
+        140,
+        45.68,
+        51.04,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "TGO - AST",
+        140,
+        67.09,
+        40.83,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "TGP - ALT",
+        140,
+        67.09,
+        66.35,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Amilasa serica",
+        160,
+        76.04,
+        84.22,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Creatinfosfoquinasa (CPK",
+        200,
+        125.4,
+        95.7,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "CK-MB",
+        200,
+        175.57,
+        133.98,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "DHL",
+        160,
+        72.04,
+        63.08,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Lipasa serica",
+        160,
+        140.07,
+        93.15,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "PIE sangre",
+        160,
+        78.5,
+        95.07,
+        1,
+        "no requiere",
+        "EMD"
+      ],
+      [
+        "Helicobacter IgG",
+        640,
+        328.84,
+        329.21,
+        0,
+        "ayuno de 8 hrs",
+        "1DH"
+      ],
+      [
+        "Factor reumatoide",
+        375,
+        182.76,
+        100.8,
+        0,
+        "ayuno de 4hrs",
+        "EMD"
+      ],
+      [
+        "Grupo sanguineo y rh",
+        80,
+        43.97,
+        43.38,
+        1,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Proteina c reactiva",
+        375,
+        179.85,
+        79.11,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Reacciones febriles (RF)",
+        150,
+        81.36,
+        89.32,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "VDRL cualitativo",
+        130.0,
+        "67.34",
+        "61.25",
+        1,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "VIH (HIV) presuntivo",
+        235,
+        0,
+        0,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Anti-ccp",
+        960,
+        499.58,
+        765.6,
+        0,
+        "ayuno de 8 hrs",
+        "1DH"
+      ],
+      [
+        "anti hepatitis A",
+        570,
+        281.19,
+        450.08,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "anti hepatitis C",
+        570,
+        288.33,
+        239.89,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Antigeno hepatitis B",
+        460,
+        241.46,
+        178.64,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Espermatobioscopia dir.",
+        375,
+        0,
+        121.22,
+        0,
+        "3 - 5 dias abstinencia sexual hacer cita",
+        "EMD"
+      ],
+      [
+        "Inmunoglobulina A",
+        340,
+        172.71,
+        119.94,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Inmunoglobulina E",
+        340,
+        173.42,
+        96.98,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil inmunoglobulinas4",
+        1115,
+        424.98,
+        "455.53(A,E,G,D,M)",
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Acido urico serico",
+        105,
+        0,
+        0,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Colesterol HDL",
+        160,
+        86.71,
+        61.25,
+        0,
+        "ayuno de 12 hrs",
+        "EMD"
+      ],
+      [
+        "Colesterol total",
+        120,
+        0,
+        0,
+        1,
+        "ayuno de 12 hrs",
+        "EMD"
+      ],
+      [
+        "Creatinina",
+        105,
+        0,
+        0,
+        1,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "OGTT 2hrs",
+        320,
+        0,
+        0,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "OGTT 3hrs",
+        440,
+        0,
+        0,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "glucosa",
+        80.0,
+        0.0,
+        0,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Glucosa post-prandial",
+        140,
+        0,
+        0,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Hemoglobina glicosilada",
+        320,
+        171.28,
+        146.74,
+        0,
+        "no requiere ayuno",
+        "1DH"
+      ],
+      [
+        "Indice homa",
+        405,
+        200.1,
+        150.22,
+        0,
+        "ayuno de 8 hrs",
+        "1DH"
+      ],
+      [
+        "Insulina basal",
+        320,
+        170.38,
+        121.22,
+        0,
+        "ayuno de 6 hrs",
+        "1DH"
+      ],
+      [
+        "Trigliceridos",
+        120,
+        66.7,
+        40.83,
+        1,
+        "ayuno de 12 hrs",
+        "EMD"
+      ],
+      [
+        "Urea",
+        105,
+        0,
+        0,
+        1,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Quimica de 3",
+        245,
+        61.38,
+        58,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Quimica de 4",
+        300,
+        81.36,
+        75.4,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Quimica de 6",
+        460,
+        151.14,
+        127.6,
+        0,
+        "ayuno de 12 hrs",
+        "EMD"
+      ],
+      [
+        "Quimica de 12",
+        700,
+        244.08,
+        185.6,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Quimica de 24",
+        855,
+        319.73,
+        371.2,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Quimica de 32",
+        1230,
+        414.95,
+        452.4,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Quimica de 45",
+        2035,
+        536.94,
+        591.6,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Check up(BHC+ QS24+ EGO)",
+        1050,
+        319.73,
+        371.2,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Check up(BHC+ QS32+ EGO)",
+        1335,
+        414.95,
+        452.4,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Check up(BHC+ QS45+ EGO)",
+        1925,
+        536.94,
+        591.6,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Check up masculino",
+        1465,
+        476.73,
+        512.84,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Check up femenino",
+        1175,
+        319.73,
+        371.2,
+        0,
+        "ayuno de 12 hrs",
+        "1DH"
+      ],
+      [
+        "Coproparasitoscopico",
+        95,
+        34.26,
+        34.45,
+        1,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "CPS serie de 3",
+        235,
+        88.5,
+        74.01,
+        1,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "Citologia de moco fecal",
+        105,
+        76.04,
+        57.42,
+        0,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "Azucares reductores y PH",
+        105,
+        49.96,
+        53.59,
+        0,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "Sangre oculta en heces",
+        105,
+        64.23,
+        82.94,
+        0,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "Coprologico",
+        245,
+        72.8,
+        89.32,
+        0,
+        "muestra tama\u00f1o nuez muestra por frasco",
+        "EMD"
+      ],
+      [
+        "Alfafetoproteina",
+        400,
+        196.1,
+        115.5,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Antigeno CA 125",
+        460,
+        312.16,
+        283.27,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Antigeno CA 15-3 (MAMA)",
+        415,
+        312.16,
+        283.27,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Antigeno CA 19-9",
+        481,
+        312.16,
+        283.27,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "CEA",
+        400,
+        214.1,
+        145.46,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "PSA libre",
+        405,
+        157,
+        165.88,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "PSA total",
+        405,
+        157,
+        141.64,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Cortisol",
+        330,
+        159.87,
+        126.5,
+        0,
+        "ayuno de 8 hrs",
+        "1DH"
+      ],
+      [
+        "GCH",
+        375,
+        195.55,
+        0,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Estradiol",
+        290,
+        125.4,
+        93.15,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Estrogenos",
+        340,
+        125.4,
+        102.08,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Gonadotrofina cual.",
+        160,
+        78.5,
+        95.7,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "FSH",
+        290,
+        120.06,
+        88.04,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "LH",
+        290,
+        120.06,
+        86.77,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil de climaterio",
+        535,
+        284.15,
+        276.89,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil ginecologico",
+        855,
+        453.56,
+        421.08,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil hormonal masc.",
+        640,
+        0,
+        597.17,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Progesterona",
+        290,
+        120.06,
+        88.04,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Prolactina",
+        290,
+        120.06,
+        88.04,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Prolactina serica (3)",
+        800,
+        360.18,
+        264.12,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Testosterona",
+        290,
+        125.4,
+        90.6,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Testosterona libre",
+        320,
+        158.78,
+        119.94,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "DHEA",
+        430,
+        175.5,
+        168.43,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil hormonal femenino",
+        2140,
+        1236.18,
+        1186.68,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Dep. de creatinina 24hrs",
+        215,
+        81.36,
+        89.32,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Examen general de orina ",
+        105.0,
+        "37.15",
+        "47.21",
+        1,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Microalbuminuria orina",
+        320,
+        144.9,
+        159.5,
+        0,
+        "no requiere ayuno",
+        "1DH"
+      ],
+      [
+        "Proteinas totales orina",
+        235,
+        51.21,
+        70.18,
+        0,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Cultivos y exudados",
+        320,
+        0,
+        0,
+        0,
+        "sin estar tomando antibioticos",
+        "6DH"
+      ],
+      [
+        "Eosinofilos moco nasal",
+        95,
+        35.68,
+        57.42,
+        0,
+        "*",
+        "EMD"
+      ],
+      [
+        "3 electrolitos",
+        320,
+        128.46,
+        146.74,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Cloro",
+        105,
+        45.68,
+        48.49,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Potasio",
+        105,
+        45.68,
+        53.59,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Sodio",
+        105,
+        45.68,
+        47.21,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Perfil de drogas (3)",
+        415,
+        325.81,
+        301.14,
+        0,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Perfil de drogas (5)",
+        750,
+        682.29,
+        0,
+        0,
+        "no requiere ayuno",
+        "EMD"
+      ],
+      [
+        "Acido valproico",
+        430,
+        204.74,
+        172.26,
+        0,
+        "ayuno de 4 hrs no tomar medicamento el dia que venga",
+        "1DH"
+      ],
+      [
+        "Difenilhidantoina",
+        430,
+        212.68,
+        179.92,
+        0,
+        "ayuno de 4 hrs no tomar medicamento el dia que venga",
+        "1DH"
+      ],
+      [
+        "Papanicolaou convenciona",
+        320,
+        146.74,
+        141.64,
+        0,
+        "3 dias de abstinencia no sangrado sin medicamento",
+        "8DH"
+      ],
+      [
+        "Perfil de lipidos",
+        400,
+        324.17,
+        248.82,
+        0,
+        "ayuno de 12 hrs",
+        "EMD"
+      ],
+      [
+        "Perfil reumatoide",
+        1125,
+        462.56,
+        354.73,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Perfil cardiaco 1",
+        640,
+        285.47,
+        227.13,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Perfil diabetico",
+        1015,
+        576.81,
+        807.71,
+        0,
+        "ayuno de 12 hrs primer orina de la ma\u00f1ana",
+        "1DH"
+      ],
+      [
+        "Perfil guarderia",
+        515,
+        296.86,
+        282,
+        0,
+        "primer orina sin aseo bucal no antibiotico 5 dias 3 muestras de",
+        "5DH"
+      ],
+      [
+        "Perfil prenatal",
+        780,
+        381.99,
+        529.54,
+        0,
+        "ayuno de 8 hrs y muestra de orina en frasco esteril",
+        "EMD"
+      ],
+      [
+        "Perfil preoperatorio",
+        580,
+        306.67,
+        306.24,
+        0,
+        "ayuno de 8 hrs y muestra de orina en frasco esteril",
+        "EMD"
+      ],
+      [
+        "PFH 1 (Bil, tgo, tgp)",
+        375,
+        0,
+        195.23,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "PFH 2",
+        705,
+        0,
+        195.23,
+        0,
+        "ayuno de 8 hrs",
+        "EMD"
+      ],
+      [
+        "Prenupciales por pareja",
+        730,
+        598.76,
+        0,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "Prenupciales individual",
+        430,
+        197.4,
+        0,
+        0,
+        "ayuno de 4 hrs",
+        "EMD"
+      ],
+      [
+        "TSH",
+        250,
+        92.72,
+        80.39,
+        0,
+        "ayuno de 4 horas",
+        "1DH"
+      ],
+      [
+        "Perfil tiroideo 1",
+        340,
+        186.18,
+        201.61,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Perfil tiroideo 7",
+        750,
+        256.92,
+        469.57,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "T3 libre (t3l)",
+        250,
+        98.94,
+        100.8,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "T3 total (t3)",
+        250,
+        122.73,
+        80.39,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "T4 libre (t4l)",
+        250,
+        122.73,
+        86.77,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "T4 total (t4)",
+        250,
+        126.42,
+        79.11,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "TU (Captacion de triyodo",
+        250,
+        86.02,
+        88.04,
+        0,
+        "ayuno de 4 hrs",
+        "1DH"
+      ],
+      [
+        "Paquete basico ETS f. 1",
+        340,
+        270.11,
+        239.89,
+        0,
+        "ayuno de 4 hrs",
+        "MD"
+      ],
+      [
+        "Paquete basico ETS f. 2",
+        1650,
+        1036.11,
+        867.68,
+        0,
+        "ayuno de 4 hrs no antibioticos no relaciones sexuales",
+        "3 - 5 DH"
+      ],
+      [
+        "Paquete basico ETS m. 1",
+        340,
+        270.11,
+        239.89,
+        0,
+        "ayuno de 4 hrs",
+        "MD"
+      ],
+      [
+        "Paquete basico ETS m. 2",
+        1150,
+        674.91,
+        764.33,
+        0,
+        "ayuno de 4 hrs no antibiotico no relaciones sexuales",
+        "3 - 5  DH"
+      ],
+      [
+        "VPH",
+        2600.0,
+        1012.5,
+        1276,
+        0,
+        "no menstruar abstinencia minimo 1 dia no antibiotico",
+        "8 - 10 DH"
+      ],
+      [
+        "Urocultivo",
+        320.0,
+        "171.21",
+        " 160.78",
+        0,
+        "Sin estar tomando antibiotico",
+        "6DH"
+      ],
+      [
+        "Cultivo cervico vaginal",
+        320.0,
+        "170.71",
+        " 220.4",
+        0,
+        "Sin estar tomando antibiotico",
+        "6DH"
+      ],
+      [
+        "Cultivo faringeo",
+        320.0,
+        "171.21",
+        "160.78",
+        0,
+        "Sin estar tomando antibiotico",
+        "6DH"
+      ]
+    ]
+}
